@@ -1,1 +1,1 @@
-module.exports = () => console.log('test file');
+module.exports = (msg) => console.log(msg);

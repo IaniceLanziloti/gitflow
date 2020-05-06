@@ -1,2 +1,3 @@
-console.log('Hello world!');
-require('./test.js')();
+const test = require('./test.js');
+test('Hello');
+test('World!');
