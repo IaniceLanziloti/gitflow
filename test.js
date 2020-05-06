@@ -1,1 +1,1 @@
-console.log('test file');
+module.exports = () => console.log('test file');
